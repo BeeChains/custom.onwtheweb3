@@ -1,2 +1,2 @@
-# jolly.onwtheweb3
-Jolly.OwnTheWeb3
+# custom.onwtheweb3
+Custom.OwnTheWeb3
